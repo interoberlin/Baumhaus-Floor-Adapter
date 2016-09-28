@@ -56,6 +56,23 @@ GenerateClassCluster=0
 DocumentUniqueId=BSBKMBIQ
 
 [Document2]
+DocumentPath=lib\Resistors.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=SHTFFEUQ
+
+[Document3]
 DocumentPath=lib\Modules.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -72,7 +89,24 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=IRLNYIOI
 
-[Document3]
+[Document4]
+DocumentPath=lib\Standard.SchLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=TYJCDBAY
+
+[Document5]
 DocumentPath=lib\Modules.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -89,7 +123,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=HIXCLNVC
 
-[Document4]
+[Document6]
 DocumentPath=lib\Connectors.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -106,7 +140,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=WMMBXTIG
 
-[Document5]
+[Document7]
 DocumentPath=lib\Headers.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -123,7 +157,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=XJSXQNTU
 
-[Document6]
+[Document8]
 DocumentPath=lib\Connectors.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -140,7 +174,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=EYKFGEQX
 
-[Document7]
+[Document9]
 DocumentPath=Top.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -157,7 +191,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=SPWFXWUX
 
-[Document8]
+[Document10]
 DocumentPath=Adapter.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -173,6 +207,23 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=SHCCTHFB
+
+[Document11]
+DocumentPath=SWD.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=YIQTMIOJ
 
 [Configuration1]
 Name=Default Configuration
